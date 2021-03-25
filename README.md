@@ -1,6 +1,6 @@
 # Conversor de moedas em Python
 
-Criando o projeto inspirado na primeira aula da Imersão dev feito em JS. 
+Criando o projeto inspirado na primeira aula da Imersão dev feito em JS. [Criei um vídeo](https://www.youtube.com/watch?v=DsFb24TgJ0c) sobre esse código.
 
 - Código em JS
 
